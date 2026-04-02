@@ -1,5 +1,5 @@
-# Group-1 Course Work
-# Group Members
-# _Milsort Kemboi_
-# _Selorm Darko_
-# _Monica Otsedzen_
+Group 1_ Course Project
+Group Members
+_Milsort Kemboi
+Selorm Darko
+Monica Otsedzen_
