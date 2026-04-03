@@ -1,6 +1,6 @@
 # Group 1_ Course Project
 
 # Group Members
-Milsort Kemboi
-Selorm Darko
-Monica Otsedzen
+1.Milsort Kemboi
+2.Selorm Darko
+3.Monica Otsedzen
